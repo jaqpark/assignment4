@@ -1,3 +1,3 @@
 # assignment4
 
-SVG files
+Fictional characters [SVG](http://i6.cims.nyu.edu/~eh1701/drawing/assignment2/assignment2.html)
